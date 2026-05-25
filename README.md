@@ -306,10 +306,6 @@ The current WGR features include trait scores, confidence, evidence validity, ev
 
 This demo reports QWK when human test labels are available. If your task uses a different metric, modify `rulers_demo/metrics.py` and `pipeline.py`.
 
-## Suggested GitHub description
-
-> Code demo for RULERS: a locked-rubric, evidence-grounded, WGR-calibrated framework for LLM-based rubric scoring. This repository provides an ASAP2.0 example implementation and is intended as a method demonstration, not a complete reproduction package for all paper experiments.
-
 ## Notes and limitations
 
 - The demo sends evaluated text to the configured LLM provider. Do not use private or sensitive text unless your data-governance policy allows it.
