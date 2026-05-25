@@ -2,8 +2,6 @@
 
 This repository is a **compact code demo** for the paper's RULERS method. It is designed to show how the method can be implemented on **ASAP2.0** with a locked rubric bundle, type-aware evidence grounding, and WGR calibration.
 
-It is **not** intended to be a full reproduction package for every experiment in the paper. The full paper experiments include additional datasets, baselines, robustness tests, bootstrap analyses, and ablations. This demo keeps only the clean ASAP2.0 path so that readers can understand and run the core pipeline.
-
 ## What this demo implements
 
 The demo follows the main RULERS pipeline:
